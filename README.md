@@ -1,10 +1,23 @@
-[v0.0.3](https://github.com/littleflute/PDFs/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/PDFs/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/PDFs/)
 
 
 [code+blocks+编译arm的配置.pdf](PDFs/code+blocks+编译arm的配置.pdf)
 
+[图像模式识别—VC++技术实现.pdf](PDFs/图像模式识别—VC++技术实现.pdf)
+
+[数字图像处理及模式识别.pdf](PDFs/数字图像处理及模式识别.pdf)
+
+[数字图像处理及模式识别【经典教材】.pdf](PDFs/数字图像处理及模式识别【经典教材】.pdf)
+
+[深入剖析WTL.pdf](PDFs/深入剖析WTL.pdf)
+
+[深入浅出MFC_第2版_简体中文文字版.pdf](PDFs/深入浅出MFC_第2版_简体中文文字版.pdf)
+
+[用VC_实现的任意多边形裁剪算法.pdf](PDFs/用VC_实现的任意多边形裁剪算法.pdf)
+
+[神经网络模式识别及其实现.pdf](PDFs/神经网络模式识别及其实现.pdf)
 
 
 
