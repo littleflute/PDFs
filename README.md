@@ -1,7 +1,8 @@
-[v0.0.4](https://github.com/littleflute/PDFs/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/PDFs/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/PDFs/)
 
+[Visual+C+++6.0时尚编程百例.pdf](PDFs/Visual+C+++6.0时尚编程百例.pdf)
 
 [code+blocks+编译arm的配置.pdf](PDFs/code+blocks+编译arm的配置.pdf)
 
