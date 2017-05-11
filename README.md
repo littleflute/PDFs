@@ -1,8 +1,9 @@
-[v0.0.2](https://github.com/littleflute/PDFs/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/PDFs/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/PDFs/)
 
 
+[code+blocks+编译arm的配置.pdf](PDFs/code+blocks+编译arm的配置.pdf)
 
 
 
