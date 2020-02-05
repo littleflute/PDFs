@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/PDFs/edit/master/README.md)
+[v0.0.11](https://github.com/littleflute/PDFs/edit/master/README.md) [weixin](https://littleflute.github.io/weixin)
 
 [show this page](https://littleflute.github.io/PDFs/)
 
